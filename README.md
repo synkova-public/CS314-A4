@@ -1,5 +1,5 @@
 # CS314-Assignment 4
-Name: Aiden Synkova
+Name: Phoenix Synkova
 </p> Course: CPSC 314 2017W1
 
 *************************************************************************
